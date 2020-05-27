@@ -1,3 +1,5 @@
+![Timo大魔王](https://github.com/mythg/fightToTimo/blob/master/designAssets/timo-618x576.png )
+
 ## _一定要躲开Timo的蘑菇呀_
 ***
 
