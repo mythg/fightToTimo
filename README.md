@@ -5,7 +5,7 @@
 
 |参与者|
 |---
-|`:underage:`![Pandada](https://img.shields.io/badge/Pandada-%E9%83%AD%E4%BA%86%E4%B8%AA%E6%B2%BB%E6%B5%A9-brightgreen)
+|![Pandada](https://img.shields.io/badge/Pandada-%E9%83%AD%E4%BA%86%E4%B8%AA%E6%B2%BB%E6%B5%A9-brightgreen)
 
 ***
 ### _What's this_
